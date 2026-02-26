@@ -1,0 +1,23 @@
+Our team is Cecilia Hunter and Jamie Horton. 
+
+Stage 3 Work Allocation: 
+	* Dataset location: Cecilia and Jamie each identified one large dataset which could be used for the project. They discussed both and agreed to use them. 
+	* Analysis and description of a dataset: Cecilia and Jamie each began to analyze one dataset and assess it for the project, completing both coding and written analysis. 
+	* Cecilia and Jamie met and discussed how to refine the motivations and problem definition, and provided verbiage to do so. 
+	* Cecilia provided LaTex writing and coding.
+	* Jamie edited the report. 
+
+Stage 2 Work Allocation: 
+    * Cecilia and Jamie both identified 5 problems of interest which could be addressed via machine learning. They discussed these problems and chose one. 
+    * Problem identification: 
+        * Cecilia and Jamie 
+    * Machine learning tasks that could be applied: 
+        * Classification, anomaly detection
+        Cecilia and Jamie
+    * Create file, write motivation/problem definition paper
+        Cecilia
+    * find 2-3 articles for related works
+        Cecilia: 2
+        Jamie: 3, provided summaries
+    * Edit initial motivation paper
+        Jamie. 
